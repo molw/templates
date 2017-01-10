@@ -121,7 +121,7 @@
                     "value": "spousty"
                 }, {
                     "name": "PG_PASSWORD",
-                    "value": "password"
+                    "value": "notsafe"
                 }, {
                     "name": "PG_DATABASE",
                     "value": "molw"
