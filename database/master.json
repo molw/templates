@@ -118,13 +118,13 @@
                     "value": "password"
                 }, {
                     "name": "PG_USER",
-                    "value": "testuser"
+                    "value": "spousty"
                 }, {
                     "name": "PG_PASSWORD",
                     "value": "password"
                 }, {
                     "name": "PG_DATABASE",
-                    "value": "userdb"
+                    "value": "molw"
                 }, {
                     "name": "SHARED_BUFFERS",
                     "value": "1GB"
