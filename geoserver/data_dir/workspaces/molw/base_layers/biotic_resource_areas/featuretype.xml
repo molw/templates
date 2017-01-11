@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4c072883:1598becac33:-7fdd</id>
+  <name>biotic_resource_areas</name>
+  <nativeName>biotic_resource_areas</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4c072883:1598becac33:-7fe4</id>
+  </namespace>
+  <title>biotic_resource_areas</title>
+  <keywords>
+    <string>biotic_resource_areas</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-122.320381164551</minx>
+    <maxx>-121.578636169434</maxx>
+    <miny>36.8467483520508</miny>
+    <maxy>37.2782669067383</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-122.320381164551</minx>
+    <maxx>-121.578636169434</maxx>
+    <miny>36.8467483520508</miny>
+    <maxy>37.2782669067383</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4c072883:1598becac33:-7fe3</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

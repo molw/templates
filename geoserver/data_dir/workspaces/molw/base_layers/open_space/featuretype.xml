@@ -1,0 +1,46 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4c072883:1598becac33:-7fdb</id>
+  <name>open_space</name>
+  <nativeName>open_space</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--4c072883:1598becac33:-7fe4</id>
+  </namespace>
+  <title>open_space</title>
+  <keywords>
+    <string>open_space</string>
+    <string>features</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-122.316734313965</minx>
+    <maxx>-121.736328125</maxx>
+    <miny>36.8468055725098</miny>
+    <maxy>37.2543830871582</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-122.316734313965</minx>
+    <maxx>-121.736328125</maxx>
+    <miny>36.8468055725098</miny>
+    <maxy>37.2543830871582</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4c072883:1598becac33:-7fe3</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

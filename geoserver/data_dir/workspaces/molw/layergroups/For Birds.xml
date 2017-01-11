@@ -1,0 +1,44 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--4c072883:1598becac33:-7fd1</id>
+  <name>For Birds</name>
+  <mode>SINGLE</mode>
+  <title>background_birding</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--4c072883:1598becac33:-7fe5</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--4c072883:1598becac33:-7fe1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4c072883:1598becac33:-7fda</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4c072883:1598becac33:-7fd6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4c072883:1598becac33:-7fde</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--4c072883:1598becac33:-7fcf</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4c072883:1598becac33:-7fc1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4c072883:1598becac33:-7fc4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4c072883:1598becac33:-7fc9</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-122.316734313965</minx>
+    <maxx>-121.578704833984</maxx>
+    <miny>36.8468055725098</miny>
+    <maxy>37.2543830871582</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

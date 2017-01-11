@@ -1,0 +1,15 @@
+<layer>
+  <name>biotic_resource_areas</name>
+  <id>LayerInfoImpl--4c072883:1598becac33:-7fdc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4c072883:1598becac33:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4c072883:1598becac33:-7fdd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

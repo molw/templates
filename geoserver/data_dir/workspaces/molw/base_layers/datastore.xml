@@ -1,0 +1,37 @@
+<dataStore>
+  <id>DataStoreInfoImpl--4c072883:1598becac33:-7fe3</id>
+  <name>base_layers</name>
+  <type>PostGIS</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--4c072883:1598becac33:-7fe5</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Connection timeout">20</entry>
+    <entry key="port">5432</entry>
+    <entry key="passwd">crypt1:nHFW5p7FtKU05S5bGv46ZQ==</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="encode functions">false</entry>
+    <entry key="Evictor run periodicity">300</entry>
+    <entry key="namespace">http://molw.io</entry>
+    <entry key="schema">public</entry>
+    <entry key="create database">false</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="min connections">1</entry>
+    <entry key="Evictor tests per run">3</entry>
+    <entry key="host">master</entry>
+    <entry key="validate connections">true</entry>
+    <entry key="max connections">15</entry>
+    <entry key="database">base_layers</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="Max connection idle time">300</entry>
+    <entry key="Test while idle">true</entry>
+    <entry key="Loose bbox">true</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="Max open prepared statements">50</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="user">spousty</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
